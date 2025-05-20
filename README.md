@@ -1,4 +1,4 @@
-#MAJOR AND MINOR PROJECT FOR AIML
+# MAJOR AND MINOR PROJECT FOR AIML
 ## Overview
 Two AI-powered projects in one package:
 1. **Stock Market Prediction**: Uses LSTM neural networks to forecast stock prices
