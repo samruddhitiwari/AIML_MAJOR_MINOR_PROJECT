@@ -19,8 +19,12 @@ Two AI-powered projects in one package:
 - Python libraries: pandas, numpy, matplotlib, scikit-learn, tensorflow
 
 ### Usage
-1. Prepare `stock_data.zip` containing your CSV file
-2. Model trains on 80% of data and shows predictions on remaining 20%
+
+Simply run the script to start the stock price prediction:
+
+```bash
+python Stock_Market_Price_Prediction.py
+
 
 ---
 
