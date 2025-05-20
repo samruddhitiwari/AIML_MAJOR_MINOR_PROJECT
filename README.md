@@ -20,8 +20,7 @@ Two AI-powered projects in one package:
 
 ### Usage
 1. Prepare `stock_data.zip` containing your CSV file
-2. Select option 1 from the main menu
-3. Model trains on 80% of data and shows predictions on remaining 20%
+2. Model trains on 80% of data and shows predictions on remaining 20%
 
 ---
 
