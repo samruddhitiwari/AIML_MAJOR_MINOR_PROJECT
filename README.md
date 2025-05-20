@@ -24,6 +24,7 @@ Simply run the script to start the stock price prediction:
 
 ```bash
 python Stock_Market_Price_Prediction.py
+```
 
 
 ---
