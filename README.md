@@ -34,18 +34,17 @@ python Stock_Market_Price_Prediction.py
 ### Features
 - Complete chess rule implementation
 - AI opponent using Minimax with Alpha-Beta pruning
-- Board visualization in terminal
-- UCI-compliant move input
-- Game termination detection
+- GUI to play the game
 
 ### Requirements
 - `python-chess` library
 
 ### Usage
-1. Select option 2 from the main menu
-2. AI plays as White, user plays as Black
-3. Input moves in UCI format (e.g., `e7e5` for pawn move)
-4. Game continues until checkmate or draw
+Run this command:
+```bash
+python chess_gui.py
+```
+Choose whether you wish to play against AI, or ONE-ON-ONE locally.
 
 ---
 
